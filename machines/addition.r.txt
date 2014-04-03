@@ -1,0 +1,5 @@
+x2 = 0
+if x2 = x1 then 10 else 2
+x0 ++
+x2 ++
+if x2 = x1 then 10 else 2

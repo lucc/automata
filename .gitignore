@@ -1,0 +1,8 @@
+.*.sw?
+*.o
+bin/
+old/bin/
+*~
+build/
+*.class
+__pycache__
